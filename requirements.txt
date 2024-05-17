@@ -1,0 +1,5 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+sqlalchemy==1.4.46
+aiosqlite==0.17.0
+httpx==0.24.1
